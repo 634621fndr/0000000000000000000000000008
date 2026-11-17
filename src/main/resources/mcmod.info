@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "xevis",
+    "name": "Xevis Labels",
+    "description": "Client-side nametags and holograms, styled on the Xevis editor site.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["xevis"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
